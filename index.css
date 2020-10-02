@@ -239,7 +239,7 @@ footer {
 	-webkit-box-align: start;
 	-ms-flex-align: start;
 	align-items: flex-start;
-	padding: 1rem;
+	padding: 1rem 3rem;
 }
 
 /* custom classes */
@@ -362,6 +362,10 @@ text {
 
 	section ul li a {
 		width: 100%;
+	}
+
+	footer {
+		padding: 1rem 2rem;
 	}
 
 	.error:first-of-type {
