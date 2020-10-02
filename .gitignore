@@ -1,3 +1,9 @@
 # IDE configs
 .idea
 .vscode
+
+# user images
+images/*
+
+# user config
+config*.json
